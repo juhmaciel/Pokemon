@@ -34,6 +34,10 @@ Se ocorrer um erro durante a solicitação da API, o script imprimirá uma mensa
 
 <h2> Observação </h2>
 Este script é apenas para fins educacionais e não deve ser usado para fins comerciais. A API Pokémon está sujeita a limitação de taxa e termos de uso.
+
+<h2>Análise dos Dados</h2>
+Altura dos Pokémons: A primeira visualização mostra a altura dos primeiros 5 Pokémons. Pode-se observar a variação das alturas.
+Peso dos Pokémons: A segunda visualização mostra o peso desses Pokémons. A comparação entre o peso pode ajudar a entender a relação entre o peso e a altura dos Pokémons.
     
 
     
